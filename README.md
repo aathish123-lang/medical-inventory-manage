@@ -1,1 +1,1 @@
-# medical-inventory-manage
+# medical-inventory-management
